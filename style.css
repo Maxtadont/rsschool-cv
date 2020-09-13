@@ -1,0 +1,28 @@
+body
+{
+    margin: 0 auto;
+    max-width: 1024px;";
+}
+
+.fioBlock
+{
+    background-color: #B0E0E6;
+    text-align: left;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px;
+ 
+}
+
+.infoBlock
+{
+    background-color: #DCDCDC;
+    text-align: left;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px;
+ 
+}
+
+li
+{
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+}
