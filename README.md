@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/
+https://Maxtadont.github.io/rsschool-cv/
